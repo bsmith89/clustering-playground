@@ -1,0 +1,23 @@
+name: clust-tutorial
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - black
+  - cython
+  - ipython
+  - jupyterlab
+  - line_profiler
+  - matplotlib
+  - memory_profiler
+  - numpy
+  - pandas
+  - patsy
+  - scikit-learn
+  - scipy
+  - seaborn
+  - statsmodels
+  - tqdm
+  - umap-learn
+  - make
