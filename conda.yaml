@@ -21,3 +21,4 @@ dependencies:
   - tqdm
   - umap-learn
   - make
+  - ipympl
